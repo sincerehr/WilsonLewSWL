@@ -1,6 +1,6 @@
 {
-  "name": "Janice Ying Contact",
-  "short_name": "Janice Ying",
+  "name": "SWL Contact Card",
+  "short_name": "Contact Card",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#ffffff",
